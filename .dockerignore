@@ -1,0 +1,4 @@
+*
+!.devcontainer/**
+!Project.toml
+!Manifest.toml

@@ -1,0 +1,7 @@
+.vscode/
+.devcontainer/*.tar.gz
+*.sif
+.julia/
+experiments/montecarlo/results/
+experiments/montecarlo/logs/
+docs/build/
