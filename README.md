@@ -3,6 +3,7 @@
 </p>
 
 [![Dev](https://img.shields.io/badge/docs-stable-blue?logo=Julia&logoColor=white)](https://TUM-ITR.github.io/ode-mmh-planner)
+[![DOI](https://zenodo.org/badge/1110854072.svg)](https://doi.org/10.5281/zenodo.18183541)
 
 **OdeMMHPlanner** provides a framework for **uncertainty-aware learning and planning** in dynamical systems with unknown dynamics and infrequent output measurements.  
 It implements the method described in:
