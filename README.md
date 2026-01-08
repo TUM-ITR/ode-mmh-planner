@@ -24,7 +24,7 @@ The approach combines:
 
 This enables principled uncertainty quantification and safer decision-making compared to point-estimate-based methods.
 
-For detailed instructions and examples, please refer to the **[Documentation](docs/src/index.md)**.
+For detailed instructions and examples, please refer to the **[Documentation](https://TUM-ITR.github.io/ode-mmh-planner)**.
 
 ## Installation
 
