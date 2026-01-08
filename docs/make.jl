@@ -14,7 +14,6 @@ makedocs(
         "Experiments" => "experiments.md",
         "API" => "api.md",
     ],
-    remotes=nothing,
 )
 
 deploydocs(
